@@ -1,0 +1,9 @@
+create a gin microservice with following requirements:
+1. take the topic as currency value same as building microservices with go, implement middleware(topic change: make an ecommerce website or the backend)
+2. use protobufs to get actual value of currencies
+3. after the whole thing is made, implement it to docker
+4. try and use mysql, i.e., try and implement gorm framework and merge todos and this project for just the sake of learning
+5. after docker, learn and implement kubernetes to it
+
+1. search for ecommerce project or api on golang/other languages
+2. install xampp on linux and try that code of gin project which was written before(another_gin_project)
