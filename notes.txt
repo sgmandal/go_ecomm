@@ -5,5 +5,8 @@ create a gin microservice with following requirements:
 4. try and use mysql, i.e., try and implement gorm framework and merge todos and this project for just the sake of learning
 5. after docker, learn and implement kubernetes to it
 
-1. search for ecommerce project or api on golang/other languages
-2. install xampp on linux and try that code of gin project which was written before(another_gin_project)
+1. search for ecommerce project or api on golang/other languages // got a medium.com(gorilla mux) and git repo(gin and gorm), and guide to golang ecommerce which seems bit different
+2. install xampp on linux and try that code of gin project which was written before(another_gin_project) // done and mysql connectivity working
+
+task :- recreate the medium.com project using gin and gorm for mysql(object relational mapping, an easy way to use packages to store in go's case a struct into the sql database without writing complex queries)
+task 1: recreate the same project, understand every aspect of it, and then make the understood changes using gin and gorm
